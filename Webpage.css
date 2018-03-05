@@ -1,0 +1,159 @@
+﻿body {
+}
+
+/************************************ Top Menu ********************************************/
+
+#TopMenu {
+    background-color: whitesmoke;
+    width: 100%;
+}
+
+
+    #TopMenu ul li {
+        margin-top: 14px;
+        float: right;
+    }
+
+#logo {
+    float: left;
+    margin: 10px 0 10px 20px;
+    height: 50px;
+    width: 150px;
+}
+
+.navbar {
+    margin-bottom: 0;
+    border:0;
+}
+/****************************************************************************************************/
+/************************************ Top Image***********************************************/
+.jumbotron {
+    background-image: url("./images/publicdomainpictures_net_snowcapped_mountains_flagstaff_az.jpg");
+    background-position: center;
+    background-size: 800px;
+    min-height: 280px;
+    color: floralwhite;
+    text-align: center;
+    font-size: 25px;
+    border-bottom: #2874A6 12px solid;
+    margin-bottom: 0;
+}
+
+.headingText {
+    margin-top: 80px;
+}
+
+/*********************************************************************************************/
+
+/************************************ Marketing Para***********************************************/
+
+
+#Marketing {
+    text-align: center;
+    background-color: whitesmoke;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    
+}
+
+    #Marketing p {
+        color: gray;
+        text-align: justify;
+        padding: 0 30px 30px 30px;
+    }
+
+    #Marketing h1 {
+        padding: 20px 0 0 0;
+    }
+
+/*********************************************************************************************/
+
+/************************************ Blurbs ***********************************************/
+
+#blurbs {
+    margin: 0;
+    padding: 30px 30px 30px 30px;
+    width: 100%;
+    background-color: powderblue;
+    
+}
+
+    #blurbs h3 {
+        color: green;
+        font-weight: bold;
+    }
+
+#sunrise {
+    text-align: justify;
+}
+
+    #sunrise img {
+        padding: 0;
+    }
+
+#grandCanyon {
+    text-align: justify;
+}
+
+    #grandCanyon img {
+        padding: 0;
+    }
+
+#Monuments {
+    text-align: justify;
+}
+
+    #Monuments img {
+        padding: 0;
+    }
+
+
+
+/*********************************************************************************************/
+
+/************************************ Address ***********************************************/
+
+#AeroAddress {
+    padding: 30px;
+    width: 100%;
+    background-color: whitesmoke;
+}
+
+    #AeroAddress h3 {
+        margin-top: 0;
+    }
+
+#address {
+    margin-top: 38px;
+}
+
+    #address p {
+        margin: 0;
+        font-weight: 300;
+    }
+
+#Aeroplane {
+    margin-top: 38px;
+    padding: 0;
+    
+}
+
+/*********************************************************************************************/
+
+/************************************ footer ***********************************************/
+
+#footer {
+    background-color: #2874A6;
+    width: 100%;
+}
+
+#insideFooter {
+    padding: 20px;
+}
+
+#footer p {
+    margin: 0;
+    color: aliceblue;
+    font-size: smaller;
+}
